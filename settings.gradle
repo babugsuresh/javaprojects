@@ -4,4 +4,6 @@ include 'reactiveprogramms'
 include 'springbootprojects'
 include 'springbootprojects:simpleproject'
 findProject(':springbootprojects:simpleproject')?.name = 'simpleproject'
+include 'springbootprojects:kafkaproject'
+findProject(':springbootprojects:kafkaproject')?.name = 'kafkaproject'
 
