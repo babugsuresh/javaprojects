@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13b78a80-63d7-4fb3-afab-8a0a0f5013a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corejava/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/org/gsb/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactiveprogramms/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactiveprogramms/src/main/java/org/gsb/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootprojects/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootprojects/simpleproject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootprojects/simpleproject/src/main/java/org/gsb/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootprojects/src/main/java/org/gsb/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gsb/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="13b78a80-63d7-4fb3-afab-8a0a0f5013a7" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +52,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
@@ -125,8 +102,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666447574677</updated>
-      <workItem from="1666447576387" duration="771000" />
+      <workItem from="1666447576387" duration="1126000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1666448496713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666448496713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
