@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13b78a80-63d7-4fb3-afab-8a0a0f5013a7" name="Changes" comment="core java dir added">
-      <change afterPath="$PROJECT_DIR$/springbootprojects/kafkaproject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootprojects/kafkaproject/src/main/java/org/gsb/Main.java" afterDir="false" />
+    <list default="true" id="13b78a80-63d7-4fb3-afab-8a0a0f5013a7" name="Changes" comment="kafka project place holder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,7 @@
     "jdk.selected.JAVA_MODULE": "openjdk-19",
     "last_opened_file_path": "/Users/sureshgollamudi/Documents/projectworks/javaprojects/corejava/src/main/java/org/gsb",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -148,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666447574677</updated>
-      <workItem from="1666447576387" duration="2365000" />
+      <workItem from="1666447576387" duration="4892000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1666448496713</created>
@@ -178,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666449285842</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kafka project place holder">
+      <created>1666450023686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666450023686</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +203,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="core java dir added" />
-    <option name="LAST_COMMIT_MESSAGE" value="core java dir added" />
+    <MESSAGE value="kafka project place holder" />
+    <option name="LAST_COMMIT_MESSAGE" value="kafka project place holder" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
